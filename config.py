@@ -9,4 +9,4 @@ class Config:
     TOKEN = os.environ.get("TOKEN", None)
     MONGO_URL = "mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     START_PIC = "https://files.catbox.moe/ppvvg0.jpg"
-    SUDOERS = filters.user(["6730956183"])
+    SUDOERS = filters.user(["6391774843"])
